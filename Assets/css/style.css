@@ -1,0 +1,102 @@
+*{
+ margin: 0%;
+ font-size: 20px;
+ color: #fff;
+}
+.Hero{
+    background: url('../img/Background1.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar{
+    color: #fff;
+    float: right;
+    padding: 10px;
+    display: flex;
+}
+.navbar p{
+    margin: 0px 10px;
+}
+.navbar i{
+    margin: 0px 10px;
+}
+.DP{
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    margin: 0px 10px;
+}
+.section{
+    height: 85vh;
+    width: 100vw;
+	display: flex;
+
+	justify-content: center;
+
+	align-items: center;
+}
+.GooleLogo{
+    position: absolute;
+	top: 35%;
+	font-size: 65px;
+	color: white;
+}
+.box{
+    width: 500px;
+    height:50px;
+    background-color: #fff;
+    border-radius: 30px;
+    border: 0px;
+    padding: 0px 10px;
+    display: flex;
+    align-items: center;
+}
+.box input{
+    flex:1;
+    height: 45px;   
+    border: none;
+    outline: none;
+    color: #777;
+    padding: 0% 10px;
+}
+.box i{
+    color: #777;
+    
+}
+.box img{
+    height: 30px;
+}
+a{
+    color: #fff;
+}
+.footerSec i{
+    padding: 100px 20px;
+}
+#link{
+    position: absolute;
+    left: 20px;
+    top:95vh;
+}
+#credit{
+    position: absolute;
+    left: 60px;
+    top:94vh;
+    color: #fff;
+}
+#pen{
+    position: absolute;
+    right: 20px;
+    top:95vh;
+}
+.ShortcutIcon{
+    position: absolute;
+    top:58%;
+}
+.ShortcutTexe{
+    position: absolute;
+    top:62%;
+    font-size: 16px;
+    font-weight:300 ;
+
+}
